@@ -1,0 +1,249 @@
+{
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 20 2020  4:33PM",
+					"end_time": "Jul 20 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 20 2020  9:00AM",
+					"end_time": "Jul 20 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  9:00AM",
+					"end_time": "Jul 21 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  4:33PM",
+					"end_time": "Jul 21 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 25 2020  9:00AM",
+					"end_time": "Jul 25 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 27 2020  1:30PM",
+					"end_time": "Jul 27 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 28 2020  10:30AM",
+					"end_time": "Jul 28 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 29 2020  2:30PM",
+					"end_time": "Jul 29 2020 4:30PM"
+				},
+				{
+					"start_time": "Jul 30 2020  3:30PM",
+					"end_time": "Jul 30 2020 5:30PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},	
+				{
+					"start_time": "Jul 21 2020  9:00AM",
+					"end_time": "Jul 21 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  4:33PM",
+					"end_time": "Jul 21 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 25 2020  9:00AM",
+					"end_time": "Jul 25 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 7 2020  1:30PM",
+					"end_time": "Jul 7 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 8 2020  10:30AM",
+					"end_time": "Jul 8 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 9 2020  2:30PM",
+					"end_time": "Jul 9 2020 4:30PM"
+				},
+				{
+					"start_time": "Jul 30 2020  3:30PM",
+					"end_time": "Jul 30 2020 5:30PM"
+				}
+			]
+		},
+		{
+			"id": "W08QCRPZ4",
+			"real_name": "Arturuto",
+			"tz": "Canada/US",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},	
+				{
+					"start_time": "Jul 21 2020  9:00AM",
+					"end_time": "Jul 21 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  4:33PM",
+					"end_time": "Jul 21 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 25 2020  9:00AM",
+					"end_time": "Jul 25 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 13 2020  1:30PM",
+					"end_time": "Jul 13 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 14 2020  10:30AM",
+					"end_time": "Jul 14 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 29 2020  2:30PM",
+					"end_time": "Jul 29 2020 4:30PM"
+				},
+				{
+					"start_time": "Jul 30 2020  3:30PM",
+					"end_time": "Jul 30 2020 5:30PM"
+				}
+			]
+		},
+		{
+			"id": "W09QCRPA4",
+			"real_name": "Hinley Greek",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Jul 21 2020  9:00AM",
+					"end_time": "Jul 21 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  4:33PM",
+					"end_time": "Jul 21 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 25 2020  9:00AM",
+					"end_time": "Jul 25 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 27 2020  1:30PM",
+					"end_time": "Jul 27 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 28 2020  10:30AM",
+					"end_time": "Jul 28 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 15 2020  2:30PM",
+					"end_time": "Jul 15 2020 4:30PM"
+				},
+				{
+					"start_time": "Jul 16 2020  3:30PM",
+					"end_time": "Jul 16 2020 5:30PM"
+				}
+			]
+		},
+		{
+			"id": "K07GCRPA4",
+			"real_name": "Labestian Schels",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Jul 21 2020  9:00AM",
+					"end_time": "Jul 21 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  1:30PM",
+					"end_time": "Jul 21 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 21 2020  4:33PM",
+					"end_time": "Jul 21 2020 8:02PM"
+				},
+				{
+					"start_time": "Jul 25 2020  9:00AM",
+					"end_time": "Jul 25 2020 12:30PM"
+				},
+				{
+					"start_time": "Jul 27 2020  1:30PM",
+					"end_time": "Jul 27 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 28 2020  10:30AM",
+					"end_time": "Jul 28 2020 3:30PM"
+				},
+				{
+					"start_time": "Jul 29 2020  2:30PM",
+					"end_time": "Jul 29 2020 4:30PM"
+				},
+				{
+					"start_time": "Jul 30 2020  3:30PM",
+					"end_time": "Jul 30 2020 5:30PM"
+				}
+			]
+		}
+	]
+}
