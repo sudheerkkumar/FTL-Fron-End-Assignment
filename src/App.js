@@ -59,7 +59,7 @@ class App extends React.Component {
  }
 
  componentDidMount() {
-  fetch('http://localhost:3004/members')
+  fetch('https://safe-shelf-07159.herokuapp.com/members')
   .then(res => res.json())
   .then((data) => {
     this.setState({ members: data })
